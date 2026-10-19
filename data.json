@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "Linux Basics", "status": "completed"},
+  {"id": 2, "name": "Python & Bash", "status": "completed"},
+  {"id": 3, "name": "Flask & MongoDB", "status": "in progress"},
+  {"id": 4, "name": "Docker", "status": "pending"},
+  {"id": 5, "name": "Kubernetes", "status": "pending"}
+]
